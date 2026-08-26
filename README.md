@@ -11,7 +11,7 @@
 Service-discovery server for the PetCare microservices system. Backend services register with Eureka and the API Gateway uses service names for routing.
 
 ## Technology Stack
-- Java 21
+- Java 25
 - Spring Boot
 - Spring Cloud Netflix Eureka Server
 - Maven
